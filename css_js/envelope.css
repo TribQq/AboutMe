@@ -1,3 +1,5 @@
+
+
 body {
   background: #f7f7f7;
 }
@@ -153,7 +155,8 @@ body {
   padding: 1px;
 }
 
-.email_adress{
+.evelope_text{
   margin: -10px 0px 0px -10px;
-  font-size: 14px;
+  font-size: 16px;
+  font-family: 'Indie Flower', cursive;
 }
