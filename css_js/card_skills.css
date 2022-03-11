@@ -116,7 +116,7 @@
   flex: 0 1 75%;
 }
 .left_info_bar {
-  margin-right: 20px;
+  /* margin-right: 20px; */
 }
 
 @media (max-width: 700px) {
